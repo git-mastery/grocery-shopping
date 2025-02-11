@@ -41,3 +41,5 @@ Have you added at least one (new) item to the shopping list? This item must not 
 Not seeing your changes? Are you sure you have run `git add shopping-list.md` and run `bash submit.sh`?
 
 </details>
+
+Hello!
