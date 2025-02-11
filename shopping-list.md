@@ -1,5 +1,4 @@
 - Milk
 - Eggs
 - Bread
-- Apples
 - ham
