@@ -2,3 +2,4 @@
 - Eggs
 - Bread
 - ham
+- Pears
